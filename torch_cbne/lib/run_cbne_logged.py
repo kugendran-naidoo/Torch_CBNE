@@ -9,10 +9,10 @@ from pathlib import Path
 import torch
 from tqdm import tqdm
 
-from torch_cbne.complex import Complex, sample_markov_chain
-from torch_cbne.config import RuntimeConfig
-from torch_cbne.graph_loader import load_graphml
-from torch_cbne.stats import Statistics
+from .complex import Complex, sample_markov_chain
+from .config import RuntimeConfig
+from .graph_loader import load_graphml
+from .stats import Statistics
 
 
 def log_factory(output_path: Path):

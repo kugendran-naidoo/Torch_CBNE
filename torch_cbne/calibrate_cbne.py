@@ -6,11 +6,11 @@ import statistics
 from collections import defaultdict
 from dataclasses import dataclass, asdict
 from pathlib import Path
-from typing import Iterable, Sequence
+from typing import Sequence
 
 import torch
 
-from run_cbne_logged import run_cbne_logged
+from torch_cbne.lib.run_cbne_logged import run_cbne_logged
 
 
 @dataclass

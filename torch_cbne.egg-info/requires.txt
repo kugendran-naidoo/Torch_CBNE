@@ -1,5 +1,0 @@
-networkx>=3.0
-torch>=2.0.0
-
-[tests]
-pytest>=7.0

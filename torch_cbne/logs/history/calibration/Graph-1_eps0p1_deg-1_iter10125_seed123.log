@@ -1,0 +1,20 @@
+[2025-09-28 20:31:02] Starting CBNE base run
+[2025-09-28 20:31:02] Graph: /Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/quantinuum/CBNE/graphs/Graph-1.graphml
+[2025-09-28 20:31:02] Spectral gap: 0.5
+[2025-09-28 20:31:02] Dimension (k): 1
+[2025-09-28 20:31:02] One norm: 1.3333333333333333
+[2025-09-28 20:31:02] Walk length (z): 6
+[2025-09-28 20:31:02] Planned samples: 10125
+[2025-09-28 20:31:02] Seed set to 123
+[2025-09-28 20:31:03] Iteration 1012/10125 | progress 10.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0007s | iter_time=0.0008s
+[2025-09-28 20:31:04] Iteration 2024/10125 | progress 20.0% | value=5.618656 | sample_time=0.0000s | chain_time=0.0007s | iter_time=0.0007s
+[2025-09-28 20:31:04] Iteration 3036/10125 | progress 30.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0007s | iter_time=0.0007s
+[2025-09-28 20:31:05] Iteration 4048/10125 | progress 40.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0007s | iter_time=0.0007s
+[2025-09-28 20:31:06] Iteration 5060/10125 | progress 50.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0007s | iter_time=0.0007s
+[2025-09-28 20:31:07] Iteration 6072/10125 | progress 60.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0007s | iter_time=0.0007s
+[2025-09-28 20:31:07] Iteration 7084/10125 | progress 70.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0009s | iter_time=0.0009s
+[2025-09-28 20:31:08] Iteration 8096/10125 | progress 80.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0006s | iter_time=0.0007s
+[2025-09-28 20:31:09] Iteration 9108/10125 | progress 90.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0007s | iter_time=0.0007s
+[2025-09-28 20:31:10] Iteration 10120/10125 | progress 100.0% | value=-5.618656 | sample_time=0.0001s | chain_time=0.0007s | iter_time=0.0008s
+[2025-09-28 20:31:10] Iteration 10125/10125 | progress 100.0% | value=5.618656 | sample_time=0.0000s | chain_time=0.0007s | iter_time=0.0007s
+[2025-09-28 20:31:10] Completed run in 7.8080 seconds, estimate=0.4395037341868556

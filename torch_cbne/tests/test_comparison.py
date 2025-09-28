@@ -10,9 +10,9 @@ from pathlib import Path
 import pytest
 import torch
 
-from torch_cbne.cbne import estimate
-from torch_cbne.config import RuntimeConfig
-from torch_cbne.graph_loader import load_graphml
+from torch_cbne.lib.cbne import estimate
+from torch_cbne.lib.config import RuntimeConfig
+from torch_cbne.lib.graph_loader import load_graphml
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
