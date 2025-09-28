@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from typing import List, Tuple
+from typing import Callable, List, Optional, Tuple
 
 import torch
 
@@ -29,9 +29,13 @@ class Complex:
         if face.numel() <= 1:
             return True
         face = face.long()
-        sub = self.adjacency.index_select(0, face).index_select(1, face)
-        triu = torch.triu(sub, diagonal=1)
-        return bool(triu.all())
+        for idx_a in range(face.numel()):
+            for idx_b in range(idx_a + 1, face.numel()):
+                a = face[idx_a]
+                b = face[idx_b]
+                if not bool(self.adjacency[int(a), int(b)]):
+                    return False
+        return True
 
     def number_of_up_neighbours(self, face: Face) -> int:
         face = face.long()
@@ -77,14 +81,30 @@ class Complex:
             neighbours.append((new_face, sign))
         return neighbours
 
-    def sample_from_complex(self, k: int) -> Face:
+    def sample_from_complex(
+        self,
+        k: int,
+        *,
+        max_attempts: int = 10000,
+        logger: Optional[Callable[[str], None]] = None,
+    ) -> Face:
         face_size = k + 1
         gen = self.generator
+        attempts = 0
         while True:
+            attempts += 1
             perm = torch.randperm(self.n, generator=gen, device="cpu").to(self.device)
             face = torch.sort(perm[:face_size]).values
             if self.includes_face(face):
+                if logger is not None:
+                    logger(f"Sampled face {face.tolist()} after {attempts} attempt(s)")
                 return face
+            if logger is not None and attempts % 1000 == 0:
+                logger(f"Still searching for face; attempts={attempts}")
+            if attempts >= max_attempts:
+                raise RuntimeError(
+                    f"Failed to sample a valid face after {attempts} attempts"
+                )
 
 
 def sample_markov_chain(

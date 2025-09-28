@@ -1,0 +1,17 @@
+[project]
+name = "torch-cbne"
+version = "0.1.0"
+description = "PyTorch implementation of the CBNE estimator with GPU support"
+requires-python = ">=3.9"
+dependencies = [
+  "networkx>=3.0",
+  "torch>=2.0.0",
+  "tqdm>=4.64",
+]
+
+[project.optional-dependencies]
+tests = ["pytest>=7.0"]
+
+[tool.pytest.ini_options]
+addopts = "-ra"
+testpaths = ["torch_cbne/tests"]

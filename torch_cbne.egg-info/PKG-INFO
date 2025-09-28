@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: torch-cbne
+Version: 0.1.0
+Summary: PyTorch implementation of the CBNE estimator with GPU support
+Requires-Python: >=3.9
+Requires-Dist: networkx>=3.0
+Requires-Dist: torch>=2.0.0
+Provides-Extra: tests
+Requires-Dist: pytest>=7.0; extra == "tests"
