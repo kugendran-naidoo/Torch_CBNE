@@ -1,0 +1,8 @@
+[2025-09-28 21:47:52] Starting CBNE base run
+[2025-09-28 21:47:52] Graph: /Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/../../../quantinuum/CBNE/graphs/Graph-3.graphml
+[2025-09-28 21:47:52] Spectral gap: 0.3333333333333333
+[2025-09-28 21:47:52] Dimension (k): 2
+[2025-09-28 21:47:52] One norm: 1.3333333333333333
+[2025-09-28 21:47:52] Walk length (z): 12
+[2025-09-28 21:47:52] Planned samples: 23848
+[2025-09-28 21:47:52] Seed set to 987

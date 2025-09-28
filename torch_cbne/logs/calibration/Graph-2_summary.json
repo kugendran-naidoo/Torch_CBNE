@@ -2,7 +2,7 @@
   "results": [
     {
       "deg_limit": -1,
-      "duration": 2.3921558330766857,
+      "duration": 3.202870624838397,
       "epsilon": 0.1,
       "error": 0.03853125000000002,
       "estimate": 0.52396875,
@@ -12,7 +12,7 @@
     },
     {
       "deg_limit": -1,
-      "duration": 3.5698319589719176,
+      "duration": 4.715738124912605,
       "epsilon": 0.1,
       "error": 0.02587499999999998,
       "estimate": 0.536625,
@@ -22,7 +22,7 @@
     },
     {
       "deg_limit": -1,
-      "duration": 5.36753070820123,
+      "duration": 6.527549041900784,
       "epsilon": 0.1,
       "error": 0.04949999999999999,
       "estimate": 0.513,
@@ -32,7 +32,7 @@
     },
     {
       "deg_limit": -1,
-      "duration": 8.04066004185006,
+      "duration": 9.481674541952088,
       "epsilon": 0.1,
       "error": 0.048374999999999946,
       "estimate": 0.514125,
@@ -42,7 +42,7 @@
     },
     {
       "deg_limit": 3,
-      "duration": 1.324437625007704,
+      "duration": 1.5272357920184731,
       "epsilon": 0.1,
       "error": 0.029249999999999998,
       "estimate": 0.59175,
@@ -52,7 +52,7 @@
     },
     {
       "deg_limit": 3,
-      "duration": 1.98979458399117,
+      "duration": 2.31013579107821,
       "epsilon": 0.1,
       "error": 0.02849999999999997,
       "estimate": 0.591,
@@ -62,7 +62,7 @@
     },
     {
       "deg_limit": 3,
-      "duration": 2.9587906249798834,
+      "duration": 3.452313082991168,
       "epsilon": 0.1,
       "error": 0.027000000000000024,
       "estimate": 0.5895,
@@ -72,7 +72,7 @@
     },
     {
       "deg_limit": 3,
-      "duration": 4.433659750036895,
+      "duration": 5.173908917000517,
       "epsilon": 0.1,
       "error": 0.03416666666666668,
       "estimate": 0.5966666666666667,
@@ -82,7 +82,7 @@
     },
     {
       "deg_limit": 3,
-      "duration": 6.650889415992424,
+      "duration": 7.72648199996911,
       "epsilon": 0.1,
       "error": 0.03348037924677372,
       "estimate": 0.5959803792467737,
@@ -100,7 +100,7 @@
         "logs/calibration/Graph-2_eps0p1_deg-1_iter4500_seed123.log"
       ],
       "max_error": 0.02587499999999998,
-      "mean_duration": 3.5698319589719176,
+      "mean_duration": 4.715738124912605,
       "mean_error": 0.02587499999999998,
       "mean_estimate": 0.536625,
       "seeds": [
@@ -116,7 +116,7 @@
         "logs/calibration/Graph-2_eps0p1_deg3_iter6750_seed123.log"
       ],
       "max_error": 0.027000000000000024,
-      "mean_duration": 2.9587906249798834,
+      "mean_duration": 3.452313082991168,
       "mean_error": 0.027000000000000024,
       "mean_estimate": 0.5895,
       "seeds": [
@@ -132,7 +132,7 @@
         "logs/calibration/Graph-2_eps0p1_deg3_iter4500_seed123.log"
       ],
       "max_error": 0.02849999999999997,
-      "mean_duration": 1.98979458399117,
+      "mean_duration": 2.31013579107821,
       "mean_error": 0.02849999999999997,
       "mean_estimate": 0.591,
       "seeds": [
@@ -148,7 +148,7 @@
         "logs/calibration/Graph-2_eps0p1_deg3_iter3000_seed123.log"
       ],
       "max_error": 0.029249999999999998,
-      "mean_duration": 1.324437625007704,
+      "mean_duration": 1.5272357920184731,
       "mean_error": 0.029249999999999998,
       "mean_estimate": 0.59175,
       "seeds": [
@@ -164,7 +164,7 @@
         "logs/calibration/Graph-2_eps0p1_deg3_iter15188_seed123.log"
       ],
       "max_error": 0.03348037924677372,
-      "mean_duration": 6.650889415992424,
+      "mean_duration": 7.72648199996911,
       "mean_error": 0.03348037924677372,
       "mean_estimate": 0.5959803792467737,
       "seeds": [
@@ -180,7 +180,7 @@
         "logs/calibration/Graph-2_eps0p1_deg3_iter10125_seed123.log"
       ],
       "max_error": 0.03416666666666668,
-      "mean_duration": 4.433659750036895,
+      "mean_duration": 5.173908917000517,
       "mean_error": 0.03416666666666668,
       "mean_estimate": 0.5966666666666667,
       "seeds": [
@@ -196,7 +196,7 @@
         "logs/calibration/Graph-2_eps0p1_deg-1_iter3000_seed123.log"
       ],
       "max_error": 0.03853125000000002,
-      "mean_duration": 2.3921558330766857,
+      "mean_duration": 3.202870624838397,
       "mean_error": 0.03853125000000002,
       "mean_estimate": 0.52396875,
       "seeds": [
@@ -212,7 +212,7 @@
         "logs/calibration/Graph-2_eps0p1_deg-1_iter10125_seed123.log"
       ],
       "max_error": 0.048374999999999946,
-      "mean_duration": 8.04066004185006,
+      "mean_duration": 9.481674541952088,
       "mean_error": 0.048374999999999946,
       "mean_estimate": 0.514125,
       "seeds": [
@@ -228,7 +228,7 @@
         "logs/calibration/Graph-2_eps0p1_deg-1_iter6750_seed123.log"
       ],
       "max_error": 0.04949999999999999,
-      "mean_duration": 5.36753070820123,
+      "mean_duration": 6.527549041900784,
       "mean_error": 0.04949999999999999,
       "mean_estimate": 0.513,
       "seeds": [

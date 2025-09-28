@@ -1,0 +1,157 @@
+{
+  "results": [
+    {
+      "deg_limit": -1,
+      "duration": 3.023223208030686,
+      "epsilon": 0.1,
+      "error": 0.03853125000000002,
+      "estimate": 0.52396875,
+      "iter_limit": 3000,
+      "log_path": "logs/calibration/Graph-2_eps0p1_deg-1_iter3000_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": -1,
+      "duration": 2.810239667072892,
+      "epsilon": 0.1,
+      "error": 0.004359375000000054,
+      "estimate": 0.558140625,
+      "iter_limit": 3000,
+      "log_path": "logs/calibration/Graph-2_eps0p1_deg-1_iter3000_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": -1,
+      "duration": 2.8660253749694675,
+      "epsilon": 0.1,
+      "error": 0.022218749999999954,
+      "estimate": 0.58471875,
+      "iter_limit": 3000,
+      "log_path": "logs/calibration/Graph-2_eps0p1_deg-1_iter3000_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": -1,
+      "duration": 3.5501874580513686,
+      "epsilon": 0.1,
+      "error": 0.007031250000000044,
+      "estimate": 0.56953125,
+      "iter_limit": 3900,
+      "log_path": "logs/calibration/Graph-2_eps0p1_deg-1_iter3900_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": -1,
+      "duration": 3.6559768330771476,
+      "epsilon": 0.1,
+      "error": 0.02163461538461542,
+      "estimate": 0.5841346153846154,
+      "iter_limit": 3900,
+      "log_path": "logs/calibration/Graph-2_eps0p1_deg-1_iter3900_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": -1,
+      "duration": 3.7223644161131233,
+      "epsilon": 0.1,
+      "error": 0.04792067307692305,
+      "estimate": 0.610420673076923,
+      "iter_limit": 3900,
+      "log_path": "logs/calibration/Graph-2_eps0p1_deg-1_iter3900_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": -1,
+      "duration": 4.673248915933073,
+      "epsilon": 0.1,
+      "error": 0.032285502958579904,
+      "estimate": 0.5302144970414201,
+      "iter_limit": 5070,
+      "log_path": "logs/calibration/Graph-2_eps0p1_deg-1_iter5070_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": -1,
+      "duration": 4.698284875135869,
+      "epsilon": 0.1,
+      "error": 0.01489460059171599,
+      "estimate": 0.577394600591716,
+      "iter_limit": 5070,
+      "log_path": "logs/calibration/Graph-2_eps0p1_deg-1_iter5070_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": -1,
+      "duration": 4.550479999976233,
+      "epsilon": 0.1,
+      "error": 0.02163461538461542,
+      "estimate": 0.5841346153846154,
+      "iter_limit": 5070,
+      "log_path": "logs/calibration/Graph-2_eps0p1_deg-1_iter5070_seed789.log",
+      "seed": 789
+    }
+  ],
+  "summaries": [
+    {
+      "deg_limit": -1,
+      "epsilon": 0.1,
+      "iter_limit": 3000,
+      "logs": [
+        "logs/calibration/Graph-2_eps0p1_deg-1_iter3000_seed123.log",
+        "logs/calibration/Graph-2_eps0p1_deg-1_iter3000_seed456.log",
+        "logs/calibration/Graph-2_eps0p1_deg-1_iter3000_seed789.log"
+      ],
+      "max_error": 0.03853125000000002,
+      "mean_duration": 2.899829416691015,
+      "mean_error": 0.021703125000000007,
+      "mean_estimate": 0.555609375,
+      "seeds": [
+        123,
+        456,
+        789
+      ],
+      "stdev_estimate": 0.024865585922741684
+    },
+    {
+      "deg_limit": -1,
+      "epsilon": 0.1,
+      "iter_limit": 5070,
+      "logs": [
+        "logs/calibration/Graph-2_eps0p1_deg-1_iter5070_seed123.log",
+        "logs/calibration/Graph-2_eps0p1_deg-1_iter5070_seed456.log",
+        "logs/calibration/Graph-2_eps0p1_deg-1_iter5070_seed789.log"
+      ],
+      "max_error": 0.032285502958579904,
+      "mean_duration": 4.640671263681725,
+      "mean_error": 0.022938239644970437,
+      "mean_estimate": 0.5639145710059171,
+      "seeds": [
+        123,
+        456,
+        789
+      ],
+      "stdev_estimate": 0.02398788845454522
+    },
+    {
+      "deg_limit": -1,
+      "epsilon": 0.1,
+      "iter_limit": 3900,
+      "logs": [
+        "logs/calibration/Graph-2_eps0p1_deg-1_iter3900_seed123.log",
+        "logs/calibration/Graph-2_eps0p1_deg-1_iter3900_seed456.log",
+        "logs/calibration/Graph-2_eps0p1_deg-1_iter3900_seed789.log"
+      ],
+      "max_error": 0.04792067307692305,
+      "mean_duration": 3.64284290241388,
+      "mean_error": 0.02552884615384617,
+      "mean_estimate": 0.5880288461538462,
+      "seeds": [
+        123,
+        456,
+        789
+      ],
+      "stdev_estimate": 0.016918628881677902
+    }
+  ],
+  "target": 0.5625
+}

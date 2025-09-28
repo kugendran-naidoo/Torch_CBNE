@@ -1,0 +1,2363 @@
+{
+  "results": [
+    {
+      "deg_limit": -1,
+      "duration": 4.31433470803313,
+      "epsilon": 0.05,
+      "error": 0.049921875000000004,
+      "estimate": 0.512578125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter4000_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": -1,
+      "duration": 4.25868104188703,
+      "epsilon": 0.05,
+      "error": 0.049921875000000004,
+      "estimate": 0.512578125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter4000_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": -1,
+      "duration": 4.193078292068094,
+      "epsilon": 0.05,
+      "error": 0.014150390625000009,
+      "estimate": 0.576650390625,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter4000_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": -1,
+      "duration": 4.183209334034473,
+      "epsilon": 0.05,
+      "error": 0.1358876953125,
+      "estimate": 0.6983876953125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter4000_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": -1,
+      "duration": 5.159662208054215,
+      "epsilon": 0.05,
+      "error": 0.15756328125000002,
+      "estimate": 0.40493671875,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter5000_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": -1,
+      "duration": 5.150479832896963,
+      "epsilon": 0.05,
+      "error": 0.014041406250000055,
+      "estimate": 0.54845859375,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter5000_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": -1,
+      "duration": 5.0936302919872105,
+      "epsilon": 0.05,
+      "error": 0.008915624999999983,
+      "estimate": 0.553584375,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter5000_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": -1,
+      "duration": 5.09273129189387,
+      "epsilon": 0.05,
+      "error": 0.08334843749999998,
+      "estimate": 0.6458484375,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter5000_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": -1,
+      "duration": 6.363546249922365,
+      "epsilon": 0.05,
+      "error": 0.12783375000000002,
+      "estimate": 0.43466625,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter6250_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": -1,
+      "duration": 6.468047209084034,
+      "epsilon": 0.05,
+      "error": 0.041720624999999956,
+      "estimate": 0.520779375,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter6250_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": -1,
+      "duration": 6.4166230000555515,
+      "epsilon": 0.05,
+      "error": 0.01711687500000003,
+      "estimate": 0.545383125,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter6250_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": -1,
+      "duration": 6.392882582964376,
+      "epsilon": 0.05,
+      "error": 0.12230437500000002,
+      "estimate": 0.684804375,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter6250_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.1429835001472384,
+      "epsilon": 0.05,
+      "error": 0.0015117187500000018,
+      "estimate": 0.56098828125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter4000_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.1771622498054057,
+      "epsilon": 0.05,
+      "error": 0.02981250000000002,
+      "estimate": 0.5923125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter4000_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.145219750003889,
+      "epsilon": 0.05,
+      "error": 0.04120312500000001,
+      "estimate": 0.603703125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter4000_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.1433539579156786,
+      "epsilon": 0.05,
+      "error": 0.04974609375000005,
+      "estimate": 0.61224609375,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter4000_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.9373149999883026,
+      "epsilon": 0.05,
+      "error": 0.02714062500000003,
+      "estimate": 0.535359375,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter5000_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.944992500124499,
+      "epsilon": 0.05,
+      "error": 0.013865624999999993,
+      "estimate": 0.576365625,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter5000_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.9360646249260753,
+      "epsilon": 0.05,
+      "error": 0.02981250000000002,
+      "estimate": 0.5923125,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter5000_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.9350566659122705,
+      "epsilon": 0.05,
+      "error": 0.07309687499999995,
+      "estimate": 0.635596875,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter5000_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 6,
+      "duration": 4.920608249958605,
+      "epsilon": 0.05,
+      "error": 0.03761999999999999,
+      "estimate": 0.52488,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter6250_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 6,
+      "duration": 4.928267874987796,
+      "epsilon": 0.05,
+      "error": 0.017055000000000042,
+      "estimate": 0.579555,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter6250_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 6,
+      "duration": 4.957923249807209,
+      "epsilon": 0.05,
+      "error": 0.0225225,
+      "estimate": 0.5850225,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter6250_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 6,
+      "duration": 5.028380166972056,
+      "epsilon": 0.05,
+      "error": 0.013410000000000033,
+      "estimate": 0.57591,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter6250_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 6,
+      "duration": 6.218903667060658,
+      "epsilon": 0.05,
+      "error": 0.046401030334058624,
+      "estimate": 0.5160989696659414,
+      "iter_limit": 7813,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter7813_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 6,
+      "duration": 6.296582875074819,
+      "epsilon": 0.05,
+      "error": 0.006083610648918492,
+      "estimate": 0.5685836106489185,
+      "iter_limit": 7813,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter7813_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 6,
+      "duration": 6.1985412910580635,
+      "epsilon": 0.05,
+      "error": 0.027952211058492216,
+      "estimate": 0.5904522110584922,
+      "iter_limit": 7813,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter7813_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 6,
+      "duration": 6.220357415964827,
+      "epsilon": 0.05,
+      "error": 0.025036397670549104,
+      "estimate": 0.5875363976705491,
+      "iter_limit": 7813,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter7813_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 6,
+      "duration": 7.679731166921556,
+      "epsilon": 0.05,
+      "error": 0.04352507166990882,
+      "estimate": 0.5189749283300912,
+      "iter_limit": 9767,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter9767_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 6,
+      "duration": 7.742440666072071,
+      "epsilon": 0.05,
+      "error": 0.036945198116105304,
+      "estimate": 0.5994451981161053,
+      "iter_limit": 9767,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter9767_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 6,
+      "duration": 7.867990833008662,
+      "epsilon": 0.05,
+      "error": 0.0626023855841098,
+      "estimate": 0.6251023855841098,
+      "iter_limit": 9767,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter9767_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 6,
+      "duration": 7.809185791062191,
+      "epsilon": 0.05,
+      "error": 0.013620482236101128,
+      "estimate": 0.5761204822361011,
+      "iter_limit": 9767,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter9767_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 8,
+      "duration": 4.195789415854961,
+      "epsilon": 0.05,
+      "error": 0.049921875000000004,
+      "estimate": 0.512578125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter4000_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 8,
+      "duration": 4.238494833000004,
+      "epsilon": 0.05,
+      "error": 0.049921875000000004,
+      "estimate": 0.512578125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter4000_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 8,
+      "duration": 4.131370791932568,
+      "epsilon": 0.05,
+      "error": 0.014150390625000009,
+      "estimate": 0.576650390625,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter4000_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 8,
+      "duration": 4.138716167071834,
+      "epsilon": 0.05,
+      "error": 0.1358876953125,
+      "estimate": 0.6983876953125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter4000_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 8,
+      "duration": 5.136070667067543,
+      "epsilon": 0.05,
+      "error": 0.15756328125000002,
+      "estimate": 0.40493671875,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter5000_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 8,
+      "duration": 5.242577083176002,
+      "epsilon": 0.05,
+      "error": 0.014041406250000055,
+      "estimate": 0.54845859375,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter5000_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 8,
+      "duration": 5.187626208877191,
+      "epsilon": 0.05,
+      "error": 0.008915624999999983,
+      "estimate": 0.553584375,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter5000_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 8,
+      "duration": 5.224981583189219,
+      "epsilon": 0.05,
+      "error": 0.08334843749999998,
+      "estimate": 0.6458484375,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter5000_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 8,
+      "duration": 6.3847417500801384,
+      "epsilon": 0.05,
+      "error": 0.12783375000000002,
+      "estimate": 0.43466625,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter6250_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 8,
+      "duration": 6.401415249798447,
+      "epsilon": 0.05,
+      "error": 0.041720624999999956,
+      "estimate": 0.520779375,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter6250_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 8,
+      "duration": 6.422293083975092,
+      "epsilon": 0.05,
+      "error": 0.01711687500000003,
+      "estimate": 0.545383125,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter6250_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 8,
+      "duration": 6.434188917046413,
+      "epsilon": 0.05,
+      "error": 0.12230437500000002,
+      "estimate": 0.684804375,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter6250_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": -1,
+      "duration": 3.2067834578920156,
+      "epsilon": 0.1,
+      "error": 0.0015117187500000018,
+      "estimate": 0.56098828125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter4000_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": -1,
+      "duration": 3.152602958958596,
+      "epsilon": 0.1,
+      "error": 0.02981250000000002,
+      "estimate": 0.5923125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter4000_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": -1,
+      "duration": 3.149094416992739,
+      "epsilon": 0.1,
+      "error": 0.04120312500000001,
+      "estimate": 0.603703125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter4000_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": -1,
+      "duration": 3.1495283748954535,
+      "epsilon": 0.1,
+      "error": 0.04974609375000005,
+      "estimate": 0.61224609375,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter4000_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": -1,
+      "duration": 4.003632124979049,
+      "epsilon": 0.1,
+      "error": 0.02714062500000003,
+      "estimate": 0.535359375,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter5000_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": -1,
+      "duration": 3.9796630409546196,
+      "epsilon": 0.1,
+      "error": 0.013865624999999993,
+      "estimate": 0.576365625,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter5000_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": -1,
+      "duration": 3.9701428750995547,
+      "epsilon": 0.1,
+      "error": 0.02981250000000002,
+      "estimate": 0.5923125,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter5000_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": -1,
+      "duration": 4.0051666249055415,
+      "epsilon": 0.1,
+      "error": 0.07309687499999995,
+      "estimate": 0.635596875,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter5000_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": -1,
+      "duration": 5.014967292081565,
+      "epsilon": 0.1,
+      "error": 0.03761999999999999,
+      "estimate": 0.52488,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter6250_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": -1,
+      "duration": 5.017049374990165,
+      "epsilon": 0.1,
+      "error": 0.017055000000000042,
+      "estimate": 0.579555,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter6250_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": -1,
+      "duration": 4.970727040898055,
+      "epsilon": 0.1,
+      "error": 0.0225225,
+      "estimate": 0.5850225,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter6250_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": -1,
+      "duration": 4.971146916039288,
+      "epsilon": 0.1,
+      "error": 0.013410000000000033,
+      "estimate": 0.57591,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter6250_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": -1,
+      "duration": 6.342335041845217,
+      "epsilon": 0.1,
+      "error": 0.046401030334058624,
+      "estimate": 0.5160989696659414,
+      "iter_limit": 7813,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter7813_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": -1,
+      "duration": 6.273608500137925,
+      "epsilon": 0.1,
+      "error": 0.006083610648918492,
+      "estimate": 0.5685836106489185,
+      "iter_limit": 7813,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter7813_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": -1,
+      "duration": 6.187690416816622,
+      "epsilon": 0.1,
+      "error": 0.027952211058492216,
+      "estimate": 0.5904522110584922,
+      "iter_limit": 7813,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter7813_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": -1,
+      "duration": 6.240346500184387,
+      "epsilon": 0.1,
+      "error": 0.025036397670549104,
+      "estimate": 0.5875363976705491,
+      "iter_limit": 7813,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter7813_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": -1,
+      "duration": 7.736536082811654,
+      "epsilon": 0.1,
+      "error": 0.04352507166990882,
+      "estimate": 0.5189749283300912,
+      "iter_limit": 9767,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter9767_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": -1,
+      "duration": 7.785299707902595,
+      "epsilon": 0.1,
+      "error": 0.036945198116105304,
+      "estimate": 0.5994451981161053,
+      "iter_limit": 9767,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter9767_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": -1,
+      "duration": 7.8370464579202235,
+      "epsilon": 0.1,
+      "error": 0.0626023855841098,
+      "estimate": 0.6251023855841098,
+      "iter_limit": 9767,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter9767_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": -1,
+      "duration": 7.724886999931186,
+      "epsilon": 0.1,
+      "error": 0.013620482236101128,
+      "estimate": 0.5761204822361011,
+      "iter_limit": 9767,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter9767_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.1879631250631064,
+      "epsilon": 0.1,
+      "error": 0.0015117187500000018,
+      "estimate": 0.56098828125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter4000_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.1951144579797983,
+      "epsilon": 0.1,
+      "error": 0.02981250000000002,
+      "estimate": 0.5923125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter4000_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.1592602499295026,
+      "epsilon": 0.1,
+      "error": 0.04120312500000001,
+      "estimate": 0.603703125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter4000_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.137883000075817,
+      "epsilon": 0.1,
+      "error": 0.04974609375000005,
+      "estimate": 0.61224609375,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter4000_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.97266299999319,
+      "epsilon": 0.1,
+      "error": 0.02714062500000003,
+      "estimate": 0.535359375,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter5000_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.947827541967854,
+      "epsilon": 0.1,
+      "error": 0.013865624999999993,
+      "estimate": 0.576365625,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter5000_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.961322415852919,
+      "epsilon": 0.1,
+      "error": 0.02981250000000002,
+      "estimate": 0.5923125,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter5000_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 6,
+      "duration": 4.031793292146176,
+      "epsilon": 0.1,
+      "error": 0.07309687499999995,
+      "estimate": 0.635596875,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter5000_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 6,
+      "duration": 4.909548915922642,
+      "epsilon": 0.1,
+      "error": 0.03761999999999999,
+      "estimate": 0.52488,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter6250_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 6,
+      "duration": 4.925666291965172,
+      "epsilon": 0.1,
+      "error": 0.017055000000000042,
+      "estimate": 0.579555,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter6250_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 6,
+      "duration": 4.924468541983515,
+      "epsilon": 0.1,
+      "error": 0.0225225,
+      "estimate": 0.5850225,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter6250_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 6,
+      "duration": 4.93978974991478,
+      "epsilon": 0.1,
+      "error": 0.013410000000000033,
+      "estimate": 0.57591,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter6250_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 6,
+      "duration": 6.154803707962856,
+      "epsilon": 0.1,
+      "error": 0.046401030334058624,
+      "estimate": 0.5160989696659414,
+      "iter_limit": 7813,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter7813_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 6,
+      "duration": 6.219460416119546,
+      "epsilon": 0.1,
+      "error": 0.006083610648918492,
+      "estimate": 0.5685836106489185,
+      "iter_limit": 7813,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter7813_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 6,
+      "duration": 6.526579583063722,
+      "epsilon": 0.1,
+      "error": 0.027952211058492216,
+      "estimate": 0.5904522110584922,
+      "iter_limit": 7813,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter7813_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 6,
+      "duration": 6.500422416022047,
+      "epsilon": 0.1,
+      "error": 0.025036397670549104,
+      "estimate": 0.5875363976705491,
+      "iter_limit": 7813,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter7813_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 6,
+      "duration": 8.131444457918406,
+      "epsilon": 0.1,
+      "error": 0.04352507166990882,
+      "estimate": 0.5189749283300912,
+      "iter_limit": 9767,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter9767_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 6,
+      "duration": 8.151622459059581,
+      "epsilon": 0.1,
+      "error": 0.036945198116105304,
+      "estimate": 0.5994451981161053,
+      "iter_limit": 9767,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter9767_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 6,
+      "duration": 8.119641999946907,
+      "epsilon": 0.1,
+      "error": 0.0626023855841098,
+      "estimate": 0.6251023855841098,
+      "iter_limit": 9767,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter9767_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 6,
+      "duration": 8.12750537483953,
+      "epsilon": 0.1,
+      "error": 0.013620482236101128,
+      "estimate": 0.5761204822361011,
+      "iter_limit": 9767,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter9767_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 8,
+      "duration": 4.239252500003204,
+      "epsilon": 0.1,
+      "error": 0.049921875000000004,
+      "estimate": 0.512578125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter4000_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 8,
+      "duration": 4.086309916805476,
+      "epsilon": 0.1,
+      "error": 0.049921875000000004,
+      "estimate": 0.512578125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter4000_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 8,
+      "duration": 4.075296374969184,
+      "epsilon": 0.1,
+      "error": 0.014150390625000009,
+      "estimate": 0.576650390625,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter4000_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 8,
+      "duration": 4.066983791999519,
+      "epsilon": 0.1,
+      "error": 0.1358876953125,
+      "estimate": 0.6983876953125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter4000_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 8,
+      "duration": 5.073749750154093,
+      "epsilon": 0.1,
+      "error": 0.15756328125000002,
+      "estimate": 0.40493671875,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter5000_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 8,
+      "duration": 5.084867333993316,
+      "epsilon": 0.1,
+      "error": 0.014041406250000055,
+      "estimate": 0.54845859375,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter5000_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 8,
+      "duration": 5.0829137079417706,
+      "epsilon": 0.1,
+      "error": 0.008915624999999983,
+      "estimate": 0.553584375,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter5000_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 8,
+      "duration": 5.075242874911055,
+      "epsilon": 0.1,
+      "error": 0.08334843749999998,
+      "estimate": 0.6458484375,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter5000_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 8,
+      "duration": 6.575385749805719,
+      "epsilon": 0.1,
+      "error": 0.12783375000000002,
+      "estimate": 0.43466625,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter6250_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 8,
+      "duration": 6.447985457954928,
+      "epsilon": 0.1,
+      "error": 0.041720624999999956,
+      "estimate": 0.520779375,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter6250_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 8,
+      "duration": 6.610034249955788,
+      "epsilon": 0.1,
+      "error": 0.01711687500000003,
+      "estimate": 0.545383125,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter6250_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 8,
+      "duration": 6.5716506249736995,
+      "epsilon": 0.1,
+      "error": 0.12230437500000002,
+      "estimate": 0.684804375,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter6250_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": -1,
+      "duration": 2.7214879158418626,
+      "epsilon": 0.2,
+      "error": 0.04042968749999998,
+      "estimate": 0.5220703125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter4000_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": -1,
+      "duration": 2.7236247081309557,
+      "epsilon": 0.2,
+      "error": 0.06778125000000002,
+      "estimate": 0.63028125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter4000_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": -1,
+      "duration": 2.7409407920204103,
+      "epsilon": 0.2,
+      "error": 0.0468984375,
+      "estimate": 0.6093984375,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter4000_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": -1,
+      "duration": 2.6892057908698916,
+      "epsilon": 0.2,
+      "error": 0.03093749999999995,
+      "estimate": 0.5315625,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter4000_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": -1,
+      "duration": 3.3700138330459595,
+      "epsilon": 0.2,
+      "error": 0.047643749999999985,
+      "estimate": 0.51485625,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter5000_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": -1,
+      "duration": 3.354303790954873,
+      "epsilon": 0.2,
+      "error": 0.03588749999999996,
+      "estimate": 0.5983875,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter5000_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": -1,
+      "duration": 3.3929827911779284,
+      "epsilon": 0.2,
+      "error": 0.02070000000000005,
+      "estimate": 0.5832,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter5000_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": -1,
+      "duration": 3.430004958063364,
+      "epsilon": 0.2,
+      "error": 0.027900000000000036,
+      "estimate": 0.5346,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter5000_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": -1,
+      "duration": 4.358056292170659,
+      "epsilon": 0.2,
+      "error": 0.04369500000000004,
+      "estimate": 0.518805,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter6250_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": -1,
+      "duration": 4.27382987504825,
+      "epsilon": 0.2,
+      "error": 0.03771000000000002,
+      "estimate": 0.60021,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter6250_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": -1,
+      "duration": 4.186012750025839,
+      "epsilon": 0.2,
+      "error": 0.004905000000000048,
+      "estimate": 0.567405,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter6250_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": -1,
+      "duration": 4.175231958040968,
+      "epsilon": 0.2,
+      "error": 0.00602999999999998,
+      "estimate": 0.55647,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter6250_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": -1,
+      "duration": 5.257860082900152,
+      "epsilon": 0.2,
+      "error": 0.028906150006399622,
+      "estimate": 0.5335938499936004,
+      "iter_limit": 7813,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter7813_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": -1,
+      "duration": 5.2516517920885235,
+      "epsilon": 0.2,
+      "error": 0.012887175220785863,
+      "estimate": 0.5753871752207859,
+      "iter_limit": 7813,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter7813_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": -1,
+      "duration": 5.30966137512587,
+      "epsilon": 0.2,
+      "error": 0.0016918917189300275,
+      "estimate": 0.56080810828107,
+      "iter_limit": 7813,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter7813_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": -1,
+      "duration": 5.325167708098888,
+      "epsilon": 0.2,
+      "error": 0.0016918917189300275,
+      "estimate": 0.56080810828107,
+      "iter_limit": 7813,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter7813_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": -1,
+      "duration": 6.793980333954096,
+      "epsilon": 0.2,
+      "error": 0.033028949523907,
+      "estimate": 0.529471050476093,
+      "iter_limit": 9767,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter9767_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": -1,
+      "duration": 6.828050541924313,
+      "epsilon": 0.2,
+      "error": 0.01673044435343507,
+      "estimate": 0.5792304443534351,
+      "iter_limit": 9767,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter9767_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": -1,
+      "duration": 6.55592512502335,
+      "epsilon": 0.2,
+      "error": 0.008926743114569424,
+      "estimate": 0.5535732568854306,
+      "iter_limit": 9767,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter9767_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": -1,
+      "duration": 6.535623499890789,
+      "epsilon": 0.2,
+      "error": 0.01048172417323645,
+      "estimate": 0.5520182758267635,
+      "iter_limit": 9767,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter9767_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": -1,
+      "duration": 8.14865683298558,
+      "epsilon": 0.2,
+      "error": 0.026975489393070706,
+      "estimate": 0.5355245106069293,
+      "iter_limit": 12209,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter12209_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": -1,
+      "duration": 8.200900750001892,
+      "epsilon": 0.2,
+      "error": 0.036466438692767666,
+      "estimate": 0.5989664386927677,
+      "iter_limit": 12209,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter12209_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": -1,
+      "duration": 8.201556124957278,
+      "epsilon": 0.2,
+      "error": 0.02075569252191012,
+      "estimate": 0.5417443074780899,
+      "iter_limit": 12209,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter12209_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": -1,
+      "duration": 8.175836875103414,
+      "epsilon": 0.2,
+      "error": 0.0016355762142681307,
+      "estimate": 0.5641355762142681,
+      "iter_limit": 12209,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter12209_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.1532156250905246,
+      "epsilon": 0.2,
+      "error": 0.0015117187500000018,
+      "estimate": 0.56098828125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter4000_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.153190291021019,
+      "epsilon": 0.2,
+      "error": 0.02981250000000002,
+      "estimate": 0.5923125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter4000_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.1512132498901337,
+      "epsilon": 0.2,
+      "error": 0.04120312500000001,
+      "estimate": 0.603703125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter4000_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.168661749921739,
+      "epsilon": 0.2,
+      "error": 0.04974609375000005,
+      "estimate": 0.61224609375,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter4000_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.9700180410873145,
+      "epsilon": 0.2,
+      "error": 0.02714062500000003,
+      "estimate": 0.535359375,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter5000_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.940938875079155,
+      "epsilon": 0.2,
+      "error": 0.013865624999999993,
+      "estimate": 0.576365625,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter5000_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.9583667078986764,
+      "epsilon": 0.2,
+      "error": 0.02981250000000002,
+      "estimate": 0.5923125,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter5000_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 6,
+      "duration": 3.994750165846199,
+      "epsilon": 0.2,
+      "error": 0.07309687499999995,
+      "estimate": 0.635596875,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter5000_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 6,
+      "duration": 5.034281832864508,
+      "epsilon": 0.2,
+      "error": 0.03761999999999999,
+      "estimate": 0.52488,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter6250_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 6,
+      "duration": 4.962229625089094,
+      "epsilon": 0.2,
+      "error": 0.017055000000000042,
+      "estimate": 0.579555,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter6250_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 6,
+      "duration": 5.427512957947329,
+      "epsilon": 0.2,
+      "error": 0.0225225,
+      "estimate": 0.5850225,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter6250_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 6,
+      "duration": 5.565656667109579,
+      "epsilon": 0.2,
+      "error": 0.013410000000000033,
+      "estimate": 0.57591,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter6250_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 6,
+      "duration": 7.111336499918252,
+      "epsilon": 0.2,
+      "error": 0.046401030334058624,
+      "estimate": 0.5160989696659414,
+      "iter_limit": 7813,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter7813_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 6,
+      "duration": 6.759406500030309,
+      "epsilon": 0.2,
+      "error": 0.006083610648918492,
+      "estimate": 0.5685836106489185,
+      "iter_limit": 7813,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter7813_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 6,
+      "duration": 6.691822624998167,
+      "epsilon": 0.2,
+      "error": 0.027952211058492216,
+      "estimate": 0.5904522110584922,
+      "iter_limit": 7813,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter7813_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 6,
+      "duration": 6.588816500036046,
+      "epsilon": 0.2,
+      "error": 0.025036397670549104,
+      "estimate": 0.5875363976705491,
+      "iter_limit": 7813,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter7813_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 6,
+      "duration": 8.223504583118483,
+      "epsilon": 0.2,
+      "error": 0.04352507166990882,
+      "estimate": 0.5189749283300912,
+      "iter_limit": 9767,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter9767_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 6,
+      "duration": 8.276389917125925,
+      "epsilon": 0.2,
+      "error": 0.036945198116105304,
+      "estimate": 0.5994451981161053,
+      "iter_limit": 9767,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter9767_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 6,
+      "duration": 8.181996749946848,
+      "epsilon": 0.2,
+      "error": 0.0626023855841098,
+      "estimate": 0.6251023855841098,
+      "iter_limit": 9767,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter9767_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 6,
+      "duration": 8.219696540851146,
+      "epsilon": 0.2,
+      "error": 0.013620482236101128,
+      "estimate": 0.5761204822361011,
+      "iter_limit": 9767,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter9767_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 8,
+      "duration": 4.368408082984388,
+      "epsilon": 0.2,
+      "error": 0.049921875000000004,
+      "estimate": 0.512578125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter4000_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 8,
+      "duration": 4.3477985840290785,
+      "epsilon": 0.2,
+      "error": 0.049921875000000004,
+      "estimate": 0.512578125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter4000_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 8,
+      "duration": 4.352797499857843,
+      "epsilon": 0.2,
+      "error": 0.014150390625000009,
+      "estimate": 0.576650390625,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter4000_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 8,
+      "duration": 4.355649082921445,
+      "epsilon": 0.2,
+      "error": 0.1358876953125,
+      "estimate": 0.6983876953125,
+      "iter_limit": 4000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter4000_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 8,
+      "duration": 5.442728499881923,
+      "epsilon": 0.2,
+      "error": 0.15756328125000002,
+      "estimate": 0.40493671875,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter5000_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 8,
+      "duration": 5.432432624977082,
+      "epsilon": 0.2,
+      "error": 0.014041406250000055,
+      "estimate": 0.54845859375,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter5000_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 8,
+      "duration": 5.442892667138949,
+      "epsilon": 0.2,
+      "error": 0.008915624999999983,
+      "estimate": 0.553584375,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter5000_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 8,
+      "duration": 5.469675665954128,
+      "epsilon": 0.2,
+      "error": 0.08334843749999998,
+      "estimate": 0.6458484375,
+      "iter_limit": 5000,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter5000_seed987.log",
+      "seed": 987
+    },
+    {
+      "deg_limit": 8,
+      "duration": 6.97059995890595,
+      "epsilon": 0.2,
+      "error": 0.12783375000000002,
+      "estimate": 0.43466625,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter6250_seed123.log",
+      "seed": 123
+    },
+    {
+      "deg_limit": 8,
+      "duration": 6.879550499841571,
+      "epsilon": 0.2,
+      "error": 0.041720624999999956,
+      "estimate": 0.520779375,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter6250_seed456.log",
+      "seed": 456
+    },
+    {
+      "deg_limit": 8,
+      "duration": 7.030793082900345,
+      "epsilon": 0.2,
+      "error": 0.01711687500000003,
+      "estimate": 0.545383125,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter6250_seed789.log",
+      "seed": 789
+    },
+    {
+      "deg_limit": 8,
+      "duration": 6.886863457970321,
+      "epsilon": 0.2,
+      "error": 0.12230437500000002,
+      "estimate": 0.684804375,
+      "iter_limit": 6250,
+      "log_path": "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter6250_seed987.log",
+      "seed": 987
+    }
+  ],
+  "summaries": [
+    {
+      "deg_limit": -1,
+      "epsilon": 0.2,
+      "iter_limit": 7813,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter7813_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter7813_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter7813_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter7813_seed987.log"
+      ],
+      "max_error": 0.028906150006399622,
+      "mean_duration": 5.286085239553358,
+      "mean_error": 0.011294277166261385,
+      "mean_estimate": 0.5576493104441316,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.015110038317880242
+    },
+    {
+      "deg_limit": -1,
+      "epsilon": 0.2,
+      "iter_limit": 9767,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter9767_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter9767_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter9767_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter9767_seed987.log"
+      ],
+      "max_error": 0.033028949523907,
+      "mean_duration": 6.678394875198137,
+      "mean_error": 0.017291965291286987,
+      "mean_estimate": 0.5535732568854306,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.01761835398568389
+    },
+    {
+      "deg_limit": -1,
+      "epsilon": 0.2,
+      "iter_limit": 12209,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter12209_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter12209_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter12209_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter12209_seed987.log"
+      ],
+      "max_error": 0.036466438692767666,
+      "mean_duration": 8.181737645762041,
+      "mean_error": 0.021458299205504155,
+      "mean_estimate": 0.5600927082480137,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.024838336529592133
+    },
+    {
+      "deg_limit": 6,
+      "epsilon": 0.05,
+      "iter_limit": 6250,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter6250_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter6250_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter6250_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter6250_seed987.log"
+      ],
+      "max_error": 0.03761999999999999,
+      "mean_duration": 4.958794885431416,
+      "mean_error": 0.022651875000000016,
+      "mean_estimate": 0.566341875,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.02415672016845158
+    },
+    {
+      "deg_limit": -1,
+      "epsilon": 0.1,
+      "iter_limit": 6250,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter6250_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter6250_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter6250_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter6250_seed987.log"
+      ],
+      "max_error": 0.03761999999999999,
+      "mean_duration": 4.993472656002268,
+      "mean_error": 0.022651875000000016,
+      "mean_estimate": 0.566341875,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.02415672016845158
+    },
+    {
+      "deg_limit": 6,
+      "epsilon": 0.1,
+      "iter_limit": 6250,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter6250_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter6250_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter6250_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter6250_seed987.log"
+      ],
+      "max_error": 0.03761999999999999,
+      "mean_duration": 4.924868374946527,
+      "mean_error": 0.022651875000000016,
+      "mean_estimate": 0.566341875,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.02415672016845158
+    },
+    {
+      "deg_limit": 6,
+      "epsilon": 0.2,
+      "iter_limit": 6250,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter6250_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter6250_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter6250_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter6250_seed987.log"
+      ],
+      "max_error": 0.03761999999999999,
+      "mean_duration": 5.247420270752627,
+      "mean_error": 0.022651875000000016,
+      "mean_estimate": 0.566341875,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.02415672016845158
+    },
+    {
+      "deg_limit": -1,
+      "epsilon": 0.2,
+      "iter_limit": 6250,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter6250_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter6250_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter6250_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter6250_seed987.log"
+      ],
+      "max_error": 0.04369500000000004,
+      "mean_duration": 4.248282718821429,
+      "mean_error": 0.023085000000000022,
+      "mean_estimate": 0.5607225,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.02906492312479084
+    },
+    {
+      "deg_limit": 6,
+      "epsilon": 0.05,
+      "iter_limit": 7813,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter7813_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter7813_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter7813_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter7813_seed987.log"
+      ],
+      "max_error": 0.046401030334058624,
+      "mean_duration": 6.233596312289592,
+      "mean_error": 0.02636831242800461,
+      "mean_estimate": 0.5656677972609753,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.02982479458445466
+    },
+    {
+      "deg_limit": -1,
+      "epsilon": 0.1,
+      "iter_limit": 7813,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter7813_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter7813_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter7813_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter7813_seed987.log"
+      ],
+      "max_error": 0.046401030334058624,
+      "mean_duration": 6.260995114746038,
+      "mean_error": 0.02636831242800461,
+      "mean_estimate": 0.5656677972609753,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.02982479458445466
+    },
+    {
+      "deg_limit": 6,
+      "epsilon": 0.1,
+      "iter_limit": 7813,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter7813_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter7813_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter7813_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter7813_seed987.log"
+      ],
+      "max_error": 0.046401030334058624,
+      "mean_duration": 6.350316530792043,
+      "mean_error": 0.02636831242800461,
+      "mean_estimate": 0.5656677972609753,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.02982479458445466
+    },
+    {
+      "deg_limit": 6,
+      "epsilon": 0.2,
+      "iter_limit": 7813,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter7813_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter7813_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter7813_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter7813_seed987.log"
+      ],
+      "max_error": 0.046401030334058624,
+      "mean_duration": 6.787845531245694,
+      "mean_error": 0.02636831242800461,
+      "mean_estimate": 0.5656677972609753,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.02982479458445466
+    },
+    {
+      "deg_limit": 6,
+      "epsilon": 0.05,
+      "iter_limit": 4000,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter4000_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter4000_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter4000_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter4000_seed987.log"
+      ],
+      "max_error": 0.04974609375000005,
+      "mean_duration": 3.152179864468053,
+      "mean_error": 0.03056835937500002,
+      "mean_estimate": 0.5923125,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.019418426674028703
+    },
+    {
+      "deg_limit": -1,
+      "epsilon": 0.1,
+      "iter_limit": 4000,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter4000_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter4000_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter4000_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter4000_seed987.log"
+      ],
+      "max_error": 0.04974609375000005,
+      "mean_duration": 3.164502302184701,
+      "mean_error": 0.03056835937500002,
+      "mean_estimate": 0.5923125,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.019418426674028703
+    },
+    {
+      "deg_limit": 6,
+      "epsilon": 0.1,
+      "iter_limit": 4000,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter4000_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter4000_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter4000_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter4000_seed987.log"
+      ],
+      "max_error": 0.04974609375000005,
+      "mean_duration": 3.170055208262056,
+      "mean_error": 0.03056835937500002,
+      "mean_estimate": 0.5923125,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.019418426674028703
+    },
+    {
+      "deg_limit": 6,
+      "epsilon": 0.2,
+      "iter_limit": 4000,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter4000_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter4000_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter4000_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter4000_seed987.log"
+      ],
+      "max_error": 0.04974609375000005,
+      "mean_duration": 3.156570228980854,
+      "mean_error": 0.03056835937500002,
+      "mean_estimate": 0.5923125,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.019418426674028703
+    },
+    {
+      "deg_limit": -1,
+      "epsilon": 0.2,
+      "iter_limit": 5000,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter5000_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter5000_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter5000_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter5000_seed987.log"
+      ],
+      "max_error": 0.047643749999999985,
+      "mean_duration": 3.3868263433105312,
+      "mean_error": 0.03303281250000001,
+      "mean_estimate": 0.5577609375,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.03418663743627353
+    },
+    {
+      "deg_limit": 6,
+      "epsilon": 0.05,
+      "iter_limit": 5000,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter5000_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter5000_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter5000_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter5000_seed987.log"
+      ],
+      "max_error": 0.07309687499999995,
+      "mean_duration": 3.938357197737787,
+      "mean_error": 0.03597890625,
+      "mean_estimate": 0.58490859375,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.03588950779000987
+    },
+    {
+      "deg_limit": -1,
+      "epsilon": 0.1,
+      "iter_limit": 5000,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter5000_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter5000_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter5000_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter5000_seed987.log"
+      ],
+      "max_error": 0.07309687499999995,
+      "mean_duration": 3.989651166484691,
+      "mean_error": 0.03597890625,
+      "mean_estimate": 0.58490859375,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.03588950779000987
+    },
+    {
+      "deg_limit": 6,
+      "epsilon": 0.1,
+      "iter_limit": 5000,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter5000_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter5000_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter5000_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter5000_seed987.log"
+      ],
+      "max_error": 0.07309687499999995,
+      "mean_duration": 3.978401562490035,
+      "mean_error": 0.03597890625,
+      "mean_estimate": 0.58490859375,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.03588950779000987
+    },
+    {
+      "deg_limit": 6,
+      "epsilon": 0.2,
+      "iter_limit": 5000,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter5000_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter5000_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter5000_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter5000_seed987.log"
+      ],
+      "max_error": 0.07309687499999995,
+      "mean_duration": 3.966018447477836,
+      "mean_error": 0.03597890625,
+      "mean_estimate": 0.58490859375,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.03588950779000987
+    },
+    {
+      "deg_limit": 6,
+      "epsilon": 0.05,
+      "iter_limit": 9767,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter9767_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter9767_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter9767_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg6_iter9767_seed987.log"
+      ],
+      "max_error": 0.0626023855841098,
+      "mean_duration": 7.77483711426612,
+      "mean_error": 0.03917328440155626,
+      "mean_estimate": 0.5799107485666019,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.03921549146152819
+    },
+    {
+      "deg_limit": -1,
+      "epsilon": 0.1,
+      "iter_limit": 9767,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter9767_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter9767_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter9767_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg-1_iter9767_seed987.log"
+      ],
+      "max_error": 0.0626023855841098,
+      "mean_duration": 7.770942312141415,
+      "mean_error": 0.03917328440155626,
+      "mean_estimate": 0.5799107485666019,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.03921549146152819
+    },
+    {
+      "deg_limit": 6,
+      "epsilon": 0.1,
+      "iter_limit": 9767,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter9767_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter9767_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter9767_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg6_iter9767_seed987.log"
+      ],
+      "max_error": 0.0626023855841098,
+      "mean_duration": 8.132553572941106,
+      "mean_error": 0.03917328440155626,
+      "mean_estimate": 0.5799107485666019,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.03921549146152819
+    },
+    {
+      "deg_limit": 6,
+      "epsilon": 0.2,
+      "iter_limit": 9767,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter9767_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter9767_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter9767_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg6_iter9767_seed987.log"
+      ],
+      "max_error": 0.0626023855841098,
+      "mean_duration": 8.2253969477606,
+      "mean_error": 0.03917328440155626,
+      "mean_estimate": 0.5799107485666019,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.03921549146152819
+    },
+    {
+      "deg_limit": -1,
+      "epsilon": 0.2,
+      "iter_limit": 4000,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter4000_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter4000_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter4000_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg-1_iter4000_seed987.log"
+      ],
+      "max_error": 0.06778125000000002,
+      "mean_duration": 2.71881480171578,
+      "mean_error": 0.046511718749999986,
+      "mean_estimate": 0.573328125,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.04721349559458359
+    },
+    {
+      "deg_limit": -1,
+      "epsilon": 0.05,
+      "iter_limit": 4000,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter4000_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter4000_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter4000_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter4000_seed987.log"
+      ],
+      "max_error": 0.1358876953125,
+      "mean_duration": 4.237325844005682,
+      "mean_error": 0.062470458984375005,
+      "mean_estimate": 0.575048583984375,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.07586207659160557
+    },
+    {
+      "deg_limit": 8,
+      "epsilon": 0.05,
+      "iter_limit": 4000,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter4000_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter4000_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter4000_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter4000_seed987.log"
+      ],
+      "max_error": 0.1358876953125,
+      "mean_duration": 4.176092801964842,
+      "mean_error": 0.062470458984375005,
+      "mean_estimate": 0.575048583984375,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.07586207659160557
+    },
+    {
+      "deg_limit": 8,
+      "epsilon": 0.1,
+      "iter_limit": 4000,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter4000_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter4000_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter4000_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter4000_seed987.log"
+      ],
+      "max_error": 0.1358876953125,
+      "mean_duration": 4.116960645944346,
+      "mean_error": 0.062470458984375005,
+      "mean_estimate": 0.575048583984375,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.07586207659160557
+    },
+    {
+      "deg_limit": 8,
+      "epsilon": 0.2,
+      "iter_limit": 4000,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter4000_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter4000_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter4000_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter4000_seed987.log"
+      ],
+      "max_error": 0.1358876953125,
+      "mean_duration": 4.356163312448189,
+      "mean_error": 0.062470458984375005,
+      "mean_estimate": 0.575048583984375,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.07586207659160557
+    },
+    {
+      "deg_limit": -1,
+      "epsilon": 0.05,
+      "iter_limit": 5000,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter5000_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter5000_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter5000_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter5000_seed987.log"
+      ],
+      "max_error": 0.15756328125000002,
+      "mean_duration": 5.124125906208064,
+      "mean_error": 0.06596718750000001,
+      "mean_estimate": 0.53820703125,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.0861527796530998
+    },
+    {
+      "deg_limit": 8,
+      "epsilon": 0.05,
+      "iter_limit": 5000,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter5000_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter5000_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter5000_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter5000_seed987.log"
+      ],
+      "max_error": 0.15756328125000002,
+      "mean_duration": 5.197813885577489,
+      "mean_error": 0.06596718750000001,
+      "mean_estimate": 0.53820703125,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.0861527796530998
+    },
+    {
+      "deg_limit": 8,
+      "epsilon": 0.1,
+      "iter_limit": 5000,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter5000_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter5000_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter5000_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter5000_seed987.log"
+      ],
+      "max_error": 0.15756328125000002,
+      "mean_duration": 5.0791934167500585,
+      "mean_error": 0.06596718750000001,
+      "mean_estimate": 0.53820703125,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.0861527796530998
+    },
+    {
+      "deg_limit": 8,
+      "epsilon": 0.2,
+      "iter_limit": 5000,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter5000_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter5000_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter5000_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter5000_seed987.log"
+      ],
+      "max_error": 0.15756328125000002,
+      "mean_duration": 5.4469323644880205,
+      "mean_error": 0.06596718750000001,
+      "mean_estimate": 0.53820703125,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.0861527796530998
+    },
+    {
+      "deg_limit": -1,
+      "epsilon": 0.05,
+      "iter_limit": 6250,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter6250_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter6250_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter6250_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg-1_iter6250_seed987.log"
+      ],
+      "max_error": 0.12783375000000002,
+      "mean_duration": 6.4102747605065815,
+      "mean_error": 0.07724390625000001,
+      "mean_estimate": 0.54640828125,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.08985773769415044
+    },
+    {
+      "deg_limit": 8,
+      "epsilon": 0.05,
+      "iter_limit": 6250,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter6250_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter6250_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter6250_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p05_deg8_iter6250_seed987.log"
+      ],
+      "max_error": 0.12783375000000002,
+      "mean_duration": 6.410659750225022,
+      "mean_error": 0.07724390625000001,
+      "mean_estimate": 0.54640828125,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.08985773769415044
+    },
+    {
+      "deg_limit": 8,
+      "epsilon": 0.1,
+      "iter_limit": 6250,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter6250_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter6250_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter6250_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p1_deg8_iter6250_seed987.log"
+      ],
+      "max_error": 0.12783375000000002,
+      "mean_duration": 6.551264020672534,
+      "mean_error": 0.07724390625000001,
+      "mean_estimate": 0.54640828125,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.08985773769415044
+    },
+    {
+      "deg_limit": 8,
+      "epsilon": 0.2,
+      "iter_limit": 6250,
+      "logs": [
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter6250_seed123.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter6250_seed456.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter6250_seed789.log",
+        "/Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/logs/calibration/Graph-2/Graph-2_eps0p2_deg8_iter6250_seed987.log"
+      ],
+      "max_error": 0.12783375000000002,
+      "mean_duration": 6.941951749904547,
+      "mean_error": 0.07724390625000001,
+      "mean_estimate": 0.54640828125,
+      "seeds": [
+        123,
+        456,
+        789,
+        987
+      ],
+      "stdev_estimate": 0.08985773769415044
+    }
+  ],
+  "target": 0.5625
+}

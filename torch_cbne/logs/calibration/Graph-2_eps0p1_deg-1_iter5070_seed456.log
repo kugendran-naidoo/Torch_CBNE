@@ -1,0 +1,19 @@
+[2025-09-28 21:09:32] Starting CBNE base run
+[2025-09-28 21:09:32] Graph: ../../../quantinuum/CBNE/graphs/Graph-2.graphml
+[2025-09-28 21:09:32] Spectral gap: 0.5
+[2025-09-28 21:09:32] Dimension (k): 1
+[2025-09-28 21:09:32] One norm: 1.5
+[2025-09-28 21:09:32] Walk length (z): 6
+[2025-09-28 21:09:32] Planned samples: 5070
+[2025-09-28 21:09:32] Seed set to 456
+[2025-09-28 21:09:32] Iteration 507/5070 | progress 10.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0008s | iter_time=0.0008s
+[2025-09-28 21:09:33] Iteration 1014/5070 | progress 20.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0008s | iter_time=0.0008s
+[2025-09-28 21:09:33] Iteration 1521/5070 | progress 30.0% | value=0.000000 | sample_time=0.0001s | chain_time=0.0009s | iter_time=0.0009s
+[2025-09-28 21:09:34] Iteration 2028/5070 | progress 40.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0008s | iter_time=0.0008s
+[2025-09-28 21:09:34] Iteration 2535/5070 | progress 50.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0008s | iter_time=0.0008s
+[2025-09-28 21:09:35] Iteration 3042/5070 | progress 60.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0008s | iter_time=0.0008s
+[2025-09-28 21:09:35] Iteration 3549/5070 | progress 70.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0008s | iter_time=0.0009s
+[2025-09-28 21:09:36] Iteration 4056/5070 | progress 80.0% | value=0.000000 | sample_time=0.0001s | chain_time=0.0009s | iter_time=0.0009s
+[2025-09-28 21:09:36] Iteration 4563/5070 | progress 90.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0008s | iter_time=0.0008s
+[2025-09-28 21:09:37] Iteration 5070/5070 | progress 100.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0008s | iter_time=0.0008s
+[2025-09-28 21:09:37] Completed run in 4.6983 seconds, estimate=0.577394600591716
