@@ -1,0 +1,20 @@
+[2025-09-29 05:48:36] Starting CBNE base run
+[2025-09-29 05:48:36] Graph: /Volumes/PData/Data/Users/kn/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/../../../quantinuum/CBNE/graphs/Graph-4.graphml
+[2025-09-29 05:48:36] Spectral gap: 0.3333333333333333
+[2025-09-29 05:48:36] Dimension (k): 2
+[2025-09-29 05:48:36] One norm: 1.5
+[2025-09-29 05:48:36] Walk length (z): 8
+[2025-09-29 05:48:36] Planned samples: 12209
+[2025-09-29 05:48:36] Seed set to 456
+[2025-09-29 05:48:38] Iteration 1220/12209 | progress 10.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0012s | iter_time=0.0012s
+[2025-09-29 05:48:40] Iteration 2440/12209 | progress 20.0% | value=0.000000 | sample_time=0.0002s | chain_time=0.0013s | iter_time=0.0014s
+[2025-09-29 05:48:41] Iteration 3660/12209 | progress 30.0% | value=25.628906 | sample_time=0.0000s | chain_time=0.0012s | iter_time=0.0012s
+[2025-09-29 05:48:43] Iteration 4880/12209 | progress 40.0% | value=0.000000 | sample_time=0.0001s | chain_time=0.0012s | iter_time=0.0013s
+[2025-09-29 05:48:45] Iteration 6100/12209 | progress 50.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0012s | iter_time=0.0013s
+[2025-09-29 05:48:46] Iteration 7320/12209 | progress 60.0% | value=0.000000 | sample_time=0.0001s | chain_time=0.0012s | iter_time=0.0013s
+[2025-09-29 05:48:48] Iteration 8540/12209 | progress 69.9% | value=0.000000 | sample_time=0.0001s | chain_time=0.0012s | iter_time=0.0013s
+[2025-09-29 05:48:50] Iteration 9760/12209 | progress 79.9% | value=0.000000 | sample_time=0.0000s | chain_time=0.0012s | iter_time=0.0013s
+[2025-09-29 05:48:51] Iteration 10980/12209 | progress 89.9% | value=0.000000 | sample_time=0.0001s | chain_time=0.0012s | iter_time=0.0013s
+[2025-09-29 05:48:53] Iteration 12200/12209 | progress 99.9% | value=0.000000 | sample_time=0.0000s | chain_time=0.0012s | iter_time=0.0012s
+[2025-09-29 05:48:53] Iteration 12209/12209 | progress 100.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0012s | iter_time=0.0013s
+[2025-09-29 05:48:53] Completed run in 16.5796 seconds, estimate=0.48491091356785976

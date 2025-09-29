@@ -1,0 +1,63 @@
+{
+  "_comment": "Strict calibration targeting <=0.1% error; device prefers CUDA with automatic CPU fallback.",
+  "Graph-1": {
+    "path": "sample_graphs/quantinuum/Graph-1.graphml",
+    "epsilon": [0.1],
+    "deg_limit": [-1, 6],
+    "iter_start": 10000,
+    "iter_max": 60000,
+    "iter_factor": 1.3,
+    "seeds": [123, 234, 345],
+    "tolerance": 1e-4,
+    "min_improvement": 5e-5,
+    "max_stalled": 6,
+    "summary_name": "Graph-1_strict_summary.json",
+    "log_subdir": "Graph-1/strict",
+    "device": "cuda"
+  },
+  "Graph-2": {
+    "path": "sample_graphs/quantinuum/Graph-2.graphml",
+    "epsilon": [0.05, 0.1, 0.2],
+    "deg_limit": [-1, 8, 10, 12],
+    "iter_start": 20000,
+    "iter_max": 200000,
+    "iter_factor": 1.2,
+    "seeds": [123, 234, 345, 456, 567, 678, 789, 987],
+    "tolerance": 1e-4,
+    "min_improvement": 5e-5,
+    "max_stalled": 6,
+    "summary_name": "Graph-2_strict_summary.json",
+    "log_subdir": "Graph-2/strict",
+    "device": "cuda"
+  },
+  "Graph-3": {
+    "path": "sample_graphs/quantinuum/Graph-3.graphml",
+    "epsilon": [0.05, 0.1, 0.2],
+    "deg_limit": [-1, 12, 14, 16, 18],
+    "iter_start": 30000,
+    "iter_max": 250000,
+    "iter_factor": 1.18,
+    "seeds": [123, 234, 345, 456, 567, 678, 789, 876, 987],
+    "tolerance": 1e-4,
+    "min_improvement": 5e-5,
+    "max_stalled": 7,
+    "summary_name": "Graph-3_strict_summary.json",
+    "log_subdir": "Graph-3/strict",
+    "device": "cuda"
+  },
+  "Graph-4": {
+    "path": "sample_graphs/quantinuum/Graph-4.graphml",
+    "epsilon": [0.05, 0.1, 0.2],
+    "deg_limit": [-1, 10, 12, 14],
+    "iter_start": 25000,
+    "iter_max": 220000,
+    "iter_factor": 1.2,
+    "seeds": [123, 234, 345, 456, 567, 678, 789, 987],
+    "tolerance": 1e-4,
+    "min_improvement": 5e-5,
+    "max_stalled": 6,
+    "summary_name": "Graph-4_strict_summary.json",
+    "log_subdir": "Graph-4/strict",
+    "device": "cuda"
+  }
+}

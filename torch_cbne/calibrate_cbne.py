@@ -66,6 +66,12 @@ def _parse_args() -> argparse.Namespace:
         default=None,
         help="Optional path to export trial metadata as JSON",
     )
+    parser.add_argument(
+        "--max-stalled",
+        type=int,
+        default=2,
+        help="Number of consecutive non-improving steps before stopping a configuration",
+    )
     return parser.parse_args()
 
 
@@ -101,6 +107,7 @@ def calibrate(args: argparse.Namespace) -> list[TrialResult]:
     deg_limits: Sequence[int] = args.deg_limit
     tolerance: float = args.tolerance
     min_improvement: float = args.min_improvement
+    max_stalled: int = max(1, args.max_stalled)
     log_dir: Path = args.log_dir
     log_dir.mkdir(parents=True, exist_ok=True)
 
@@ -168,7 +175,7 @@ def calibrate(args: argparse.Namespace) -> list[TrialResult]:
                         f"Tolerance reached (<= {tolerance}); stopping iter_limit sweep for deg_limit={deg_limit}"
                     )
                     break
-                if stalled_steps >= 2:
+                if stalled_steps >= max_stalled:
                     print(
                         "No significant improvement detected in two consecutive steps; moving to next configuration"
                     )

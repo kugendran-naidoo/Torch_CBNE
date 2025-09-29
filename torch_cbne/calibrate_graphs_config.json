@@ -1,0 +1,115 @@
+{
+  "Graph-1": {
+    "path": "sample_graphs/quantinuum/Graph-1.graphml",
+    "epsilon": [
+      0.1
+    ],
+    "deg_limit": [
+      -1,
+      3
+    ],
+    "iter_start": 3000,
+    "iter_max": 20000,
+    "iter_factor": 1.5,
+    "seeds": [
+      123
+    ],
+    "tolerance": 0.0005,
+    "min_improvement": 0.00025,
+    "max_stalled": 2,
+    "summary_name": "Graph-1_summary.json",
+    "log_subdir": "Graph-1",
+    "device": "cuda"
+  },
+  "Graph-2": {
+    "path": "sample_graphs/quantinuum/Graph-2.graphml",
+    "epsilon": [
+      0.05,
+      0.1,
+      0.2
+    ],
+    "deg_limit": [
+      -1,
+      6,
+      8
+    ],
+    "iter_start": 4000,
+    "iter_max": 80000,
+    "iter_factor": 1.25,
+    "seeds": [
+      123,
+      456,
+      789,
+      987
+    ],
+    "tolerance": 0.0003,
+    "min_improvement": 0.0001,
+    "max_stalled": 5,
+    "summary_name": "Graph-2_extended_summary.json",
+    "log_subdir": "Graph-2",
+    "device": "cuda"
+  },
+  "Graph-3": {
+    "path": "sample_graphs/quantinuum/Graph-3.graphml",
+    "epsilon": [
+      0.05,
+      0.1,
+      0.2
+    ],
+    "deg_limit": [
+      -1,
+      10,
+      12,
+      14,
+      16
+    ],
+    "iter_start": 5000,
+    "iter_max": 120000,
+    "iter_factor": 1.15,
+    "seeds": [
+      123,
+      234,
+      345,
+      456,
+      567,
+      678,
+      789,
+      987
+    ],
+    "tolerance": 0.0003,
+    "min_improvement": 5e-05,
+    "max_stalled": 5,
+    "summary_name": "Graph-3_extended_summary.json",
+    "log_subdir": "Graph-3",
+    "device": "cuda"
+  },
+  "Graph-4": {
+    "path": "sample_graphs/quantinuum/Graph-4.graphml",
+    "epsilon": [
+      0.05,
+      0.1,
+      0.2
+    ],
+    "deg_limit": [
+      -1,
+      6,
+      8
+    ],
+    "iter_start": 4000,
+    "iter_max": 80000,
+    "iter_factor": 1.25,
+    "seeds": [
+      123,
+      456,
+      789,
+      987
+    ],
+    "tolerance": 0.0003,
+    "min_improvement": 0.0001,
+    "max_stalled": 4,
+    "summary_name": "Graph-4_extended_summary.json",
+    "log_subdir": "Graph-4",
+    "device": "cuda"
+  },
+  "_comment": "device is set to 'cuda' to prefer GPU; calibrate_cbne.py falls back to CPU automatically when CUDA is unavailable."
+}
