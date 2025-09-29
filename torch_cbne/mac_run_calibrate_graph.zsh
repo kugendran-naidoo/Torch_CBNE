@@ -1,12 +1,9 @@
 #!/usr/bin/env zsh
 set -euo pipefail
 
-if [[ $# -lt 2 ]]; then
-  printf "Usage: %s --graph <graph-path-relative-to-sample_graphs/quantinuum>\n" "${0}" >&2
-  exit 1
-fi
-
 graph_path=""
+config_override=""
+
 while [[ $# -gt 0 ]]; do
   case "$1" in
     --graph)
@@ -17,8 +14,16 @@ while [[ $# -gt 0 ]]; do
       graph_path="$2"
       shift 2
       ;;
+    --json-config)
+      if [[ $# -lt 2 ]]; then
+        printf "Error: --json-config requires an argument\n" >&2
+        exit 1
+      fi
+      config_override="$2"
+      shift 2
+      ;;
     -h|--help)
-      printf "Usage: %s --graph <graph-path-relative-to-sample_graphs/quantinuum>\n" "${0}"
+      printf "Usage: %s --graph <graph-relative-path> [--json-config <config.json>]\n" "${0}"
       exit 0
       ;;
     *)
@@ -44,7 +49,12 @@ else
   printf "Warning: virtualenv not found at %s\n" "${venv}"
 fi
 
-config_file="${base_dir}/calibrate_graphs_config.json"
+if [[ -n "${config_override}" ]]; then
+  config_file="${config_override}"
+else
+  config_file="${base_dir}/calibrate_graphs_config.json"
+fi
+
 if [[ ! -f "${config_file}" ]]; then
   printf "Config file not found: %s\n" "${config_file}" >&2
   exit 1
@@ -68,6 +78,8 @@ repo_root = Path(os.environ["repo_root"]).resolve()
 config = json.loads(config_path.read_text(encoding="utf-8"))
 matched_graph = None
 for graph, params in config.items():
+    if not isinstance(params, dict):
+        continue
     path_entry = params.get("path")
     if not path_entry:
         continue

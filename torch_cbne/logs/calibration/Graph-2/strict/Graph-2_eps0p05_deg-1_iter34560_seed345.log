@@ -1,0 +1,19 @@
+[2025-09-29 06:36:35] Starting CBNE base run
+[2025-09-29 06:36:35] Graph: /Volumes/PData/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/sample_graphs/quantinuum/Graph-2.graphml
+[2025-09-29 06:36:35] Spectral gap: 0.5
+[2025-09-29 06:36:35] Dimension (k): 1
+[2025-09-29 06:36:35] One norm: 1.5
+[2025-09-29 06:36:35] Walk length (z): 8
+[2025-09-29 06:36:35] Planned samples: 34560
+[2025-09-29 06:36:35] Seed set to 345
+[2025-09-29 06:36:39] Iteration 3456/34560 | progress 10.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0010s | iter_time=0.0010s
+[2025-09-29 06:36:43] Iteration 6912/34560 | progress 20.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0009s | iter_time=0.0009s
+[2025-09-29 06:36:46] Iteration 10368/34560 | progress 30.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0010s | iter_time=0.0010s
+[2025-09-29 06:36:50] Iteration 13824/34560 | progress 40.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0009s | iter_time=0.0009s
+[2025-09-29 06:36:54] Iteration 17280/34560 | progress 50.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0009s | iter_time=0.0009s
+[2025-09-29 06:36:58] Iteration 20736/34560 | progress 60.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0010s | iter_time=0.0010s
+[2025-09-29 06:37:02] Iteration 24192/34560 | progress 70.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0011s | iter_time=0.0011s
+[2025-09-29 06:37:05] Iteration 27648/34560 | progress 80.0% | value=-25.628906 | sample_time=0.0000s | chain_time=0.0009s | iter_time=0.0010s
+[2025-09-29 06:37:09] Iteration 31104/34560 | progress 90.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0010s | iter_time=0.0010s
+[2025-09-29 06:37:13] Iteration 34560/34560 | progress 100.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0009s | iter_time=0.0010s
+[2025-09-29 06:37:13] Completed run in 37.6976 seconds, estimate=0.5873291015625

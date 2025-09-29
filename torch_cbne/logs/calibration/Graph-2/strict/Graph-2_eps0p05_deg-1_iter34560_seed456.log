@@ -1,0 +1,11 @@
+[2025-09-29 06:37:13] Starting CBNE base run
+[2025-09-29 06:37:13] Graph: /Volumes/PData/Data/Dev/Github/Repos/phd3/cbne/local/Torch_CBNE/torch_cbne/sample_graphs/quantinuum/Graph-2.graphml
+[2025-09-29 06:37:13] Spectral gap: 0.5
+[2025-09-29 06:37:13] Dimension (k): 1
+[2025-09-29 06:37:13] One norm: 1.5
+[2025-09-29 06:37:13] Walk length (z): 8
+[2025-09-29 06:37:13] Planned samples: 34560
+[2025-09-29 06:37:13] Seed set to 456
+[2025-09-29 06:37:17] Iteration 3456/34560 | progress 10.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0009s | iter_time=0.0010s
+[2025-09-29 06:37:20] Iteration 6912/34560 | progress 20.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0010s | iter_time=0.0010s
+[2025-09-29 06:37:24] Iteration 10368/34560 | progress 30.0% | value=0.000000 | sample_time=0.0000s | chain_time=0.0009s | iter_time=0.0009s
