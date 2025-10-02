@@ -120,7 +120,22 @@ def calibrate(args: argparse.Namespace) -> list[TrialResult]:
     iter_limits = _iter_limits(args.iter_start, args.iter_max, args.iter_factor)
     results: list[TrialResult] = []
 
+    def _maybe_show_summary():
+        if not results:
+            return
+        summaries = summarize(results)
+        print("\n=== Calibration Summary (intermediate) ===")
+        for entry in summaries[: min(5, len(summaries))]:
+            print(
+                f"eps={entry['epsilon']:.3g} deg_limit={entry['deg_limit']} "
+                f"iter_limit={entry['iter_limit']} mean_error={entry['mean_error']:.6f} "
+                f"stdev={entry['stdev_estimate']:.6f} mean_estimate={entry['mean_estimate']:.6f}"
+            )
+        print()
+
+
     for epsilon in epsilons:
+
         for deg_limit in deg_limits:
             best_mean_error = math.inf
             stalled_steps = 0
@@ -157,6 +172,8 @@ def calibrate(args: argparse.Namespace) -> list[TrialResult]:
                     )
                 for trial in config_results:
                     results.append(trial)
+
+                _maybe_show_summary()
 
                 mean_error = statistics.mean(trial.error for trial in config_results)
                 if mean_error < best_mean_error - min_improvement:

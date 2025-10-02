@@ -1,0 +1,63 @@
+{
+  "_comment": "Balanced calibration profiles tuned to reach ~0.3% relative error in minutes rather than days; CUDA preferred but CPU fallback supported.",
+  "Graph-1": {
+    "path": "sample_graphs/quantinuum/Graph-1.graphml",
+    "epsilon": [0.1],
+    "deg_limit": [-1, 4],
+    "iter_start": 6000,
+    "iter_max": 40000,
+    "iter_factor": 1.35,
+    "seeds": [123, 234],
+    "tolerance": 0.0008,
+    "min_improvement": 0.0002,
+    "max_stalled": 4,
+    "summary_name": "Graph-1_balanced_summary.json",
+    "log_subdir": "Graph-1/balanced",
+    "device": "cuda"
+  },
+  "Graph-2": {
+    "path": "sample_graphs/quantinuum/Graph-2.graphml",
+    "epsilon": [0.1, 0.2],
+    "deg_limit": [-1, 8],
+    "iter_start": 10000,
+    "iter_max": 90000,
+    "iter_factor": 1.4,
+    "seeds": [123, 456, 789, 987],
+    "tolerance": 0.0020,
+    "min_improvement": 0.0005,
+    "max_stalled": 4,
+    "summary_name": "Graph-2_balanced_summary.json",
+    "log_subdir": "Graph-2/balanced",
+    "device": "cuda"
+  },
+  "Graph-3": {
+    "path": "sample_graphs/quantinuum/Graph-3.graphml",
+    "epsilon": [0.1, 0.2],
+    "deg_limit": [-1, 12, 16],
+    "iter_start": 15000,
+    "iter_max": 110000,
+    "iter_factor": 1.35,
+    "seeds": [123, 234, 345, 456, 789, 987],
+    "tolerance": 0.0030,
+    "min_improvement": 0.0007,
+    "max_stalled": 4,
+    "summary_name": "Graph-3_balanced_summary.json",
+    "log_subdir": "Graph-3/balanced",
+    "device": "cuda"
+  },
+  "Graph-4": {
+    "path": "sample_graphs/quantinuum/Graph-4.graphml",
+    "epsilon": [0.1, 0.2],
+    "deg_limit": [-1, 10, 12],
+    "iter_start": 15000,
+    "iter_max": 120000,
+    "iter_factor": 1.35,
+    "seeds": [123, 234, 345, 456, 789, 987],
+    "tolerance": 0.0020,
+    "min_improvement": 0.0006,
+    "max_stalled": 4,
+    "summary_name": "Graph-4_balanced_summary.json",
+    "log_subdir": "Graph-4/balanced",
+    "device": "cuda"
+  }
+}
