@@ -1,6 +1,17 @@
 # Torch CBNE – Practical Guide
 
-Python re-implementation of the Quantinuum CBNE estimator with optional GPU acceleration via PyTorch. Augment to Quantum GNN paper for PhD in progress. 
+Python re-implementation of the Quantinuum CBNE estimator with optional GPU acceleration via PyTorch. Augment to Quantum GNN paper for PhD in progress.
+
+## 📊 Traffic & Popularity
+![Clones](https://img.shields.io/endpoint?cacheSeconds=300&url=https%3A%2F%2Fgist.githubusercontent.com%2Fkugendran-naidoo%2F2b0de4f9f92a605b780e986e6d48ffcc%2Fraw%2FTorch_CBNE-clones.json%3Fv%3D1)
+![Views](https://img.shields.io/endpoint?cacheSeconds=300&url=https%3A%2F%2Fgist.githubusercontent.com%2Fkugendran-naidoo%2F9b749f24de62343dc995f8d524027c39%2Fraw%2FTorch_CBNE-views.json%3Fv%3D1)
+
+> Auto-updated daily at 14:00 UTC via GitHub Actions.
+
+## 📈 Metrics
+![Activity (last 4 weeks)](https://raw.githubusercontent.com/kugendran-naidoo/Torch_CBNE/main/metrics/activity_4w.png)
+
+> Auto-updated daily at 14:00 UTC via GitHub Actions.
 
 ---
 ## 1. Overview
